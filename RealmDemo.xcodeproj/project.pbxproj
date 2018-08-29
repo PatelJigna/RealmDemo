@@ -82,8 +82,6 @@
 		751E0EF6212D649B00F90DA9 /* RealmDemo */ = {
 			isa = PBXGroup;
 			children = (
-				751E0F00212D649C00F90DA9 /* LaunchScreen.storyboard */,
-				751E0EFB212D649B00F90DA9 /* Main.storyboard */,
 				751E0F12212DA66B00F90DA9 /* Utility */,
 				751E0F11212D878900F90DA9 /* Model */,
 				751E0F0C212D83E600F90DA9 /* View */,
@@ -107,6 +105,8 @@
 		751E0F0C212D83E600F90DA9 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				751E0F00212D649C00F90DA9 /* LaunchScreen.storyboard */,
+				751E0EFB212D649B00F90DA9 /* Main.storyboard */,
 				751C9B682134170600F7CFA9 /* tblCellDetail.swift */,
 			);
 			path = View;
