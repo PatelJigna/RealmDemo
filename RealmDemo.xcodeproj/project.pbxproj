@@ -86,9 +86,7 @@
 				751E0F11212D878900F90DA9 /* Model */,
 				751E0F0C212D83E600F90DA9 /* View */,
 				751E0F0B212D83DD00F90DA9 /* Controller */,
-				751E0EFB212D649B00F90DA9 /* Main.storyboard */,
 				751E0EFE212D649C00F90DA9 /* Assets.xcassets */,
-				751E0F00212D649C00F90DA9 /* LaunchScreen.storyboard */,
 				751E0F03212D649C00F90DA9 /* Info.plist */,
 			);
 			path = RealmDemo;
@@ -107,6 +105,8 @@
 		751E0F0C212D83E600F90DA9 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				751E0F00212D649C00F90DA9 /* LaunchScreen.storyboard */,
+				751E0EFB212D649B00F90DA9 /* Main.storyboard */,
 				751C9B682134170600F7CFA9 /* tblCellDetail.swift */,
 			);
 			path = View;
