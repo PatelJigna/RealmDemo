@@ -1,5 +1,5 @@
 # RealmDemo
-Basic Operations(insert, update, delete &amp;amp; select Records) with Realm Database.
+Basic Operations(insert, update, delete and select Records) with Realm Database.
 
 ### Introduction ###
 
